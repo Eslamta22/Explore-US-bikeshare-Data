@@ -1,10 +1,3 @@
-"""Sources used:
-    -Practice problems in project section
-    -Python Pandas – Find the maximum value of a column and return its corresponding row values(Tutorials point site)
-    -How do I get the row count of a Pandas DataFrame? (Stackoverflow)
-    -Loop with df.head()(Stackoverflow)
-    """
-
 
 import time
 import pandas as pd
